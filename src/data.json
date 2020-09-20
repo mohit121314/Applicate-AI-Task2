@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.shopdutyfree.com/image/upload/v1585744440/030/001/001/4005500049623/4005500049623_1_default_default.jpg",
+        "nameofproduct": "KitKat",
+        "brand": "Nestle",
+        "price": 45,
+        "category": "Groceries",
+        "qty": "250gm"
+    },
+    {
+        "id": 2,
+        "image": "https://www.bigbasket.com/media/uploads/p/l/100647222_9-fortune-refined-oil-rice-bran.jpg",
+        "nameofproduct": "Refined Oil",
+        "brand": "Fortune",
+        "price": 633,
+        "category": "Groceries",
+        "qty": "5Ltr"
+    },
+    {
+        "id": 3,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61iKq%2B3hfYL._SY879_.jpg",
+        "nameofproduct": "Eye Kajal",
+        "brand": "Maybelline NewYork",
+        "price": 180,
+        "category": "Beauty & Makeup",
+        "qty": "24gm"
+    },
+    {
+        "id": 4,
+        "image": "https://images.philips.com/is/image/PhilipsConsumer/TASH402LF_00-IMS-en_IN?wid=420&hei=360&$jpglarge$",
+        "nameofproduct": "Wireless Headphones",
+        "brand": "Philips",
+        "price": 1838,
+        "category": "Electronic Market",
+        "qty": "350gm"
+    },
+    {
+        "id": 5,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71Nxisz4Z1L._SL1500_.jpg",
+        "nameofproduct": "Vegetable Trolley",
+        "brand": "Nayassa",
+        "price": 729,
+        "category": "Kitchen Accessories",
+        "qty": "8Ltr"
+    },
+    {
+        "id": 6,
+        "image": "https://pogo91-static.s3.amazonaws.com/media/__sized__/media/18147_14_images3-thumbnail-120x120-70.jpg",
+        "nameofproduct": "Family Farm Arhar Dal/Toor Dal",
+        "brand": "Farm fresh",
+        "price": 310.0,
+        "category": "pulses",
+        "qty": "3kg"
+    },
+    {
+        "id": 7,
+        "image": "https://img.zcdn.com.au/lf/50/hash/38191/18696045/4/Gera%2B23cm%2BTong.jpg",
+        "nameofproduct": "Tongs",
+        "brand": "Gera",
+        "price": 110,
+        "category": "Kitchen Accessories",
+        "qty": "23cm"
+    },
+    {
+        "id": 8,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41EqsDizvKL._SX466_.jpg",
+        "nameofproduct": "Cheese & Chilli Sandwich Spread",
+        "brand": "FunFoods",
+        "price": 75,
+        "category": "Groceries",
+        "qty": "275gm"
+    },
+    {
+        "id": 9,
+        "image": "https://www.jaipurfabric.com/uploads/jaipurfabric/products/73031-433964_l.jpeg",
+        "nameofproduct": "Bedsheet Set",
+        "brand": "Bombay Dyeing",
+        "price": 739,
+        "category": "Home & Decor",
+        "qty": "1set"
+    },
+    {
+        "id": 10,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51PYb75ivIL._SL1100_.jpg",
+        "nameofproduct": "Nivea",
+        "brand": "Soft Creme",
+        "price": 149,
+        "category": "Beauty & Makeup",
+        "qty": "75ml"
+    }
+]

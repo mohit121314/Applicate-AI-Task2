@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.shopdutyfree.com/image/upload/v1585744440/030/001/001/4005500049623/4005500049623_1_default_default.jpg",
+        "nameofproduct": "KitKat",
+        "brand": "Nestle",
+        "price": 45,
+        "category": "Groceries",
+        "qty": "250gm"
+    },
+    {
+        "id": 2,
+        "image": "https://www.bigbasket.com/media/uploads/p/l/100647222_9-fortune-refined-oil-rice-bran.jpg",
+        "nameofproduct": "Refined Oil",
+        "brand": "Fortune",
+        "price": 633,
+        "category": "Groceries",
+        "qty": "5Ltr"
+    }
+]
